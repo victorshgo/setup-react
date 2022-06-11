@@ -1,11 +1,13 @@
+import React from 'react';
+
 /* Layout */
-import Layout from "layout";
+import Layout from 'layout';
 
 /* Images */
-import logo from "assets/images/logo.svg";
+import logo from 'assets/images/logo.svg';
 
 /* Styles */
-import { Title, Image, Link } from "./styles";
+import { Title, Image, Link } from './styles';
 
 const Home: React.FC = () => {
   return (

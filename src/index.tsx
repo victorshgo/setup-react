@@ -1,14 +1,14 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 
 /* Routes */
-import Router from "services/router";
+import Router from 'services/router';
 
 /* Styles */
-import Global from "styles/global";
+import Global from 'styles/global';
 
 const root = ReactDOM.createRoot(
-  document.getElementById("root") as HTMLElement
+  document.getElementById('root') as HTMLElement
 );
 
 root.render(
